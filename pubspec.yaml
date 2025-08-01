@@ -60,7 +60,7 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - asset\img\ai-generated-pic-artistic-depiction-of-sunflowers-under-a-vast-cloudy-sky-photo.jpg
+    - asset\img\1000003803.jpg
 
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/to/resolution-aware-images
